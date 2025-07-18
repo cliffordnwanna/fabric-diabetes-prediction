@@ -31,8 +31,6 @@ This project explores an end-to-end machine learning workflow using **Microsoft 
 ## 🔗 LinkedIn Post
 > [See my project post on LinkedIn](#)
 
-## 📂 Project Structure
-notebook/
-└── Train_and_Compare_Models.ipynb
+
 
 
