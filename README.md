@@ -29,7 +29,7 @@ This project explores an end-to-end machine learning workflow using **Microsoft 
 *Explore visuals and outputs in the `screenshots/` folder.*
 
 ## 🔗 LinkedIn Post
-[> [See my project post on LinkedIn](#)](https://www.linkedin.com/posts/cliffordnwanna_train-and-compare-models-fabric-18-july-activity-7351854322160222211-BnwD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACu0vhABiUUjTEOYBWoPADkk2jSCrcJaksI)
+https://www.linkedin.com/posts/cliffordnwanna_train-and-compare-models-fabric-18-july-activity-7351854322160222211-BnwD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACu0vhABiUUjTEOYBWoPADkk2jSCrcJaksI
 
 
 
